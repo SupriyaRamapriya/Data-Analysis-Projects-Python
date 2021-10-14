@@ -25,7 +25,7 @@ The dataset used for the visualization is obtained from CMIE website. CMIE stand
 For the above visualization , mean of Unemployment Rate is calculated over every month throughout the specified period. We can see that Union Territories are worst affected in the months of April and May. The spike goes up to 46% from the lowest being 6% in Union Territories. From this trend we can further have a research as to why during those months the unemployment rate is high and help the local people to reduce the same.
 
 ## Cairo's Principles:
-Truthfulness : The data is presented as is and is not manipulated
-Beauty : More emphasis is given to the representation and clear markings rather than beautifying the visual. The color palette used is disable friendly
-Functionality : Direct labelling is done and one glance through the graph will be enough to get down with the results
-Insightfulness : The visual representation leads the reader for new learnings and can definitely be used for future research works
+1)Truthfulness : The data is presented as is and is not manipulated
+2) Beauty : More emphasis is given to the representation and clear markings rather than beautifying the visual. The color palette used is disable friendly
+3) Functionality : Direct labelling is done and one glance through the graph will be enough to get down with the results
+4) Insightfulness : The visual representation leads the reader for new learnings and can definitely be used for future research works
