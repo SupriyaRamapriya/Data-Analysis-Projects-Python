@@ -14,7 +14,7 @@ and follows Cairo's principles of visual analysis.
 6) All the required subsets of original dataset is merged using Pandas to help plotting
 7) Visual of Maximum and Minimum temperaures are plotted using "matplotlib" library present in Python
 
-## CONCLUSION
+## CONCLUSION:
 From the visual we can see that on an average the maximum and minimum temperatues run a difference of 10degCelsius throughout the year. We can also see a huge temperature variation on some days in the year 2015 as compared to all the years from 2005. This visual might be helpful for further climate change study and we can use the same to draw many insightfull conclusions.
 
 
@@ -27,5 +27,21 @@ For the above visualization , mean of Unemployment Rate is calculated over every
 ## Cairo's Principles:
 1) Truthfulness : The data is presented as is and is not manipulated.
 2) Beauty : More emphasis is given to the representation and clear markings rather than beautifying the visual. The color palette used is disable friendly.
-3) Functionality : Direct labelling is done and one glance through the graph will be enough to get down with the results.
-4) Insightfulness : The visual representation leads the reader for new learnings and can definitely be used for future research works.
+4) Functionality : Direct labelling is done and one glance through the graph will be enough to get down with the results.
+5) Insightfulness : The visual representation leads the reader for new learnings and can definitely be used for future research works.
+
+
+# Olympic_Medal_Trend:
+
+The analysis aims at giving a clear picture of how many Gold , Silver and Bronze medals are won altogether by each country. Here I have chosen India and United States for analysis from the year 1980 till 2020 . Comparison of bith countries is also donw using subplots. 
+
+## STEPS FOLLOWED:
+1) The dataset is derived from wikipedia page for each year Summer Olympics from 1980 for all the countries.
+2) The dataset is cleaned with the help of "regex"
+3) The required countries are then selected and dataset is manipulated to help for analysis without compromising or losing any original data
+4) Suitable rows are added to help plotting
+5) Stacked bar plot is abtained for both countries with the number of medals won every year in Summer Olympics
+6) Subplot for comparison is obtained at the last
+
+## CONCLUSION:
+From the visual we can see that there is an increasing trend in obtaining medals for India , whereas United States medal count has always been on a average from 100-120 medals each year. This study can be further used for predicting outcome in next Summer Olympics.  
