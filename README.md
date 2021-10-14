@@ -6,9 +6,9 @@ The following analysis aims at giving a clear picture of the temperature changes
 and follows Cairo's principles of visual analysis. 
 
 ## STEPS FOLLOWED:
--- Required libraries for analysis are loaded in Jupyter notebook
--- The data in .csv format is read to a specified Dataframe using Pandas library present in Python
--- All dates are converted to DateTime format and Dates are converted to Day_of_the_Year
+1) Required libraries for analysis are loaded in Jupyter notebook
+2) The data in .csv format is read to a specified Dataframe using Pandas library present in Python
+3) All dates are converted to DateTime format and Dates are converted to Day_of_the_Year
 -- Dataset is considerably cleaned to suffice easy analysis without loosing any important data
 -- Maximum and Minimum tempearaures are seperated out and mean is calculated using Numpy library present in Python
 -- All the required subsets of original dataset is merged using Pandas to help plotting
