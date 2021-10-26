@@ -32,6 +32,8 @@ For the above visualization , mean of Unemployment Rate is calculated over every
 4) Functionality : Direct labelling is done and one glance through the graph will be enough to get down with the results.
 5) Insightfulness : The visual representation leads the reader for new learnings and can definitely be used for future research works.
 
+![2021-10-25 (1)](https://user-images.githubusercontent.com/31743520/138808276-9afe8635-1fa5-4ec3-b5ff-4d2ce1d16d45.png)
+
 
 # Olympic_Medal_Trend:
 
@@ -47,3 +49,6 @@ The analysis aims at giving a clear picture of how many Gold , Silver and Bronze
 
 ## CONCLUSION:
 From the visual we can see that there is an increasing trend in obtaining medals for India , whereas United States medal count has always been on a average from 100-120 medals each year. This study can be further used for predicting outcome in next Summer Olympics.  
+
+![2021-10-25 (2)](https://user-images.githubusercontent.com/31743520/138808398-1fe66969-12af-444c-afac-638d7f6da42e.png)
+
