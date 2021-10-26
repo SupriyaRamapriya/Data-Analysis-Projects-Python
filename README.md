@@ -1,5 +1,5 @@
 # Data-Science-Projects-Python
-The following repository consists of Data Science projects / analysis using Python . 
+The following repository consists of Data Science projects / analysis using Python . The source code of all the analysis has been uploaded individually. 
 
 # Min. Max. Temp. Analysis:
 The following analysis aims at giving a clear picture of the temperature changes in given region of observation. The visual leverages the guidelines of effective visual design
