@@ -16,6 +16,8 @@ and follows Cairo's principles of visual analysis.
 
 ## CONCLUSION:
 From the visual we can see that on an average the maximum and minimum temperatues run a difference of 10degCelsius throughout the year. We can also see a huge temperature variation on some days in the year 2015 as compared to all the years from 2005. This visual might be helpful for further climate change study and we can use the same to draw many insightfull conclusions.
+![2021-10-25](https://user-images.githubusercontent.com/31743520/138808022-a49dadd6-4c59-4e41-addf-af7bcde9bd83.png)
+
 
 
 
